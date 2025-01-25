@@ -60,4 +60,4 @@ This project focuses on building an **interactive HR Analytics Dashboard** using
 ---
 
 ## 📧 Contact
-For questions or feedback, feel free to reach out via [Your Email or GitHub Profile Link].
+For questions or feedback, feel free to reach out via https://github.com/Naresh-0007.
